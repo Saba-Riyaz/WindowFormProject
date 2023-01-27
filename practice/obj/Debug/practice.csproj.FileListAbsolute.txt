@@ -1,0 +1,12 @@
+C:\Users\sriaz\Desktop\practice\bin\Debug\practice.exe.config
+C:\Users\sriaz\Desktop\practice\bin\Debug\practice.exe
+C:\Users\sriaz\Desktop\practice\bin\Debug\practice.pdb
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.Form1.resources
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.csproj.GenerateResource.cache
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.exe
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.pdb
+C:\Users\sriaz\Desktop\practice\obj\Debug\practice.Dashboard.resources

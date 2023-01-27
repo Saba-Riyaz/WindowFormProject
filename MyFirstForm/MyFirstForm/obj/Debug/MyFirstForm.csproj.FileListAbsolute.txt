@@ -1,0 +1,22 @@
+E:\project\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe.config
+E:\project\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe
+E:\project\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.pdb
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.AssemblyReference.cache
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.SuggestedBindingRedirects.cache
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Form1.resources
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Properties.Resources.resources
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.GenerateResource.cache
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.CoreCompileInputs.cache
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.exe
+E:\project\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.pdb
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe.config
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.exe
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\bin\Debug\MyFirstForm.pdb
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.AssemblyReference.cache
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.frmPersonl.resources
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Properties.Resources.resources
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.GenerateResource.cache
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.CoreCompileInputs.cache
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.exe
+C:\Users\sriaz\Desktop\WindowsFormsApp2\Personel info\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.pdb
